@@ -77,4 +77,4 @@ Follow the prompts to enter marks for each subject. The application will then di
 ## Contributions
 
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements.
-```
+
